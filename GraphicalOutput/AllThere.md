@@ -1,0 +1,17 @@
+# 图形输出题的“套路”
+
+图形题有很多“套路”，例如：
+
+- 左对齐：空格不变、字符变多
+
+- 居中对齐：空格递减、字符递增（一般是奇数）
+
+- 倒三角：空格递增、字符递减
+
+- 空心三角：边界是字符，中间是空格
+
+- 对称图形（菱形、沙漏等）：上半部分规律 + 下半部分对称输出
+
+## 对称图形
+[GraphicalOutput\IsoscelesTriangle\readme.md](GraphicalOutput/IsoscelesTriangle/readme.md)
+
