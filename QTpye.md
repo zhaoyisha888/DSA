@@ -26,6 +26,7 @@
 | 常用于现实问题建模 | 比如“资源分配”、“运输优化”、“疫情传播预测” |
 
 [最大人数](mathModel\earthMaxPeople\B2006.md)
+[最大公约数](mathModel\gcd\gcd.c)
 
 # 模拟题
 1. 模拟是指：
