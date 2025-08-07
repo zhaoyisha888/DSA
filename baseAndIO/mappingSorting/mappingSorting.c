@@ -4,7 +4,7 @@ int main(){
     int a,b,c,temp;
     char order[4];
     scanf("%d %d %d",&a,&b,&c);
-    scanf("%s",order);
+    scanf("%s",order);   //为何要用字符串在笔记中有解释
     if(a>b){
         temp=a; a=b; b=temp;
     }
