@@ -1,9 +1,9 @@
 # 基本输入输出题
-[基本数据格式和输入输出格式](base&IO\BasicDataTypes.md)
+[基本数据格式和输入输出格式](baseAndIO\BasicDataTypes.md)
 ## 字符转换
-[字符串反向输出](base&IO\ceil#int\P5707.md)
+[字符串反向输出](baseAndIO\ceil#int\P5707.md)
 ## 输出格式化
-[出发时间](base&IO\char\B2028.md)
+[出发时间](baseAndIO\char\B2028.md)
 
 # 排序
 基本用于比较大小的问题，多涉及到基本排序算法
