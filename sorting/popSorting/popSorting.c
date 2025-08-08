@@ -3,7 +3,15 @@
 int main(){
     int n,temp;
     scanf("%d",&n);
-    int a[n]={0};
+
+    // 动态分配数组并初始化为0
+    int *a = (int*)malloc(n * sizeof(int));
+    for(int i = 0; i < n; i++) {
+        a[i] = 0;
+    } 
+
+    // int a[n];           //变长数组，（int a[n]={0}此写法不对）
+
     for(int i = 0;i<n;i++){
         scanf("%d ",&a[i]);
     }
