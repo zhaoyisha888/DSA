@@ -70,3 +70,5 @@ last = last -'0';
 ## 数组
 使用数组最需要注意的就是数组下标和实际值是否对应
 [ISBNcode](baseAndIO\ISBNcode\ISBNcode.md)
+数组多和循环排序相关
+[冒泡排序](sorting\popSorting\P5718-popSorting.md)
