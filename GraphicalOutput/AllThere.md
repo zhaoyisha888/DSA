@@ -12,6 +12,7 @@
 
 - 对称图形（菱形、沙漏等）：上半部分规律 + 下半部分对称输出
 
-## 对称图形
-[GraphicalOutput\IsoscelesTriangle\readme.md](GraphicalOutput/IsoscelesTriangle/readme.md)
+## 例子
+
+
 

@@ -15,12 +15,13 @@ int main(){
     for(int i = 0;i<n;i++){
         scanf("%d ",&a[i]);
     }
-    for(int i =0;i<n-1;i++){
-        for(int j = 0;j<n-i-1;j++){
-            if(a[j]>a[j+1]){
+    // Bubble sort
+    for (int i = 0; i < n - 1; i++) {          // 外层循环：控制轮数
+        for (int j = 0; j < n - i - 1; j++) {  // 内层循环：比较和交换
+            if (a[j] > a[j + 1]) {
                 temp = a[j];
-                a[j] = a[j+1];
-                a[j+1] = temp;
+                a[j] = a[j + 1];
+                a[j + 1] = temp;
             }
         }
     }
