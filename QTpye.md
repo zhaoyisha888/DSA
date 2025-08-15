@@ -1,11 +1,11 @@
 # 基本输入输出题
 [基本数据格式和输入输出格式](baseAndIO\BasicDataTypes.md)
 ## 字符转换
-[字符串反向输出](baseAndIO\ceil#int\P5707.md)
+
 ## 输出格式化
 [出发时间](baseAndIO\char\B2028.md)
 ## 字符和数字的转化
-[字符和数字的转化(与ASCII码区分)](arry\ISBNcode\ISBNcode.c)
+
 ```c
 #若有一个变量 last = 2;
 #如果是int类型的，将其转化为字符,此时last是 char 0
@@ -65,10 +65,9 @@ last = last -'0';
 |  **问题要求最值或满足条件的情况** | 例如“找最大值/最小值”、“找某种条件下最先/最后出现的情况” |
 |  **没有复杂的状态变化**      | 枚举题往往逻辑清晰，没有动态规划或贪心那种复杂转移       |
 |  **暴力可行，优化不是必须的**   | 即使不用高效算法，直接试也能通过所有测试点           |
-[分糖果](simulation\shareCandies\B2020.md)
+
 
 ## 数组
 使用数组最需要注意的就是数组下标和实际值是否对应
-[ISBNcode](baseAndIO\ISBNcode\ISBNcode.md)
+
 数组多和循环排序相关
-[冒泡排序](sorting\popSorting\P5718-popSorting.md)

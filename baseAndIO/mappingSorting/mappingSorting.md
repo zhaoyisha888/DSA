@@ -41,4 +41,4 @@ scanf("%c");      // 读取下一个字符，包括空白符
 ```
 - `%c` 不会跳过任何空白符
 - 会读取输入流中的下一个字符，即使它是空白符
-具体可以查看[映射排序](baseAndIO\mappingSorting\mappingSorting.c)
+具体可以查看[映射排序](baseAndIO/mappingSorting/mappingSorting.c)
